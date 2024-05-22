@@ -1,7 +1,20 @@
 
 # Assignment Management System Website
 
-Electronic-Component-E-Shop is a responsive and user-friendly e-commerce website template specifically designed for selling electronic components. The project demonstrates the use of HTML, CSS, and Bootstrap to create a modern, functional, and aesthetically pleasing web interface.
+This is an Assignment Management System developed using PHP, HTML, CSS, and MySQL. The system has two types of users: students and teachers. Teachers can manage students and assignments, while students can view and submit assignments.
+## Features
+Teacher
+* Login: Secure login system for teachers.
+* Add Students: Teachers can add new students to the system.
+* View Students: Teachers can view all students in the system.
+* Create Assignments: Teachers can create new assignments.
+* View Uploaded Assignments: Teachers can view assignments submitted by students.
+  
+Student
+* Login: Secure login system for students.
+* View Assignments: Students can view assignments assigned to them.
+* Upload Assignments: Students can upload their assignments in PDF format.
+
 
 * FeaturesResponsive Design: The layout adapts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
 
@@ -13,16 +26,40 @@ To set up the project locally, follow these steps:
 
 Clone the repository:
 
-    git clone https://github.com/ashutoshshinde2/Electronic-Component-E-Shop.git
+    https://github.com/ashutoshshinde2/Assignment-Management-System-.git
 
 Navigate to the project directory:
 
-    cd Electronic-Component-E-Shop
+    cd assignment-management-system
 
-Open index.html in your browser:
+Copy to Server Directory
 
-* You can open the file directly from your file explorer.
-* Or, use a local server if you prefer (e.g., using VS Code Live Server extension).
+Copy the project folder to your server's root directory (e.g., 'C:\xampp\htdocs\' for XAMPP).
+
+Create Database
+
+* Start your MySQL server.
+* Open PHPMyAdmin (http://localhost/phpmyadmin).
+* Create a new database named ams.
+* Import the SQL/ams.sql file from the database folder to the newly created database.
+
+Update Database Configuration
+
+Open the config.php file in the project directory.
+Update the database configuration to match your server settings
+
+    <?php
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $dbname = "assignment_system";
+    ?>
+
+Run the Application
+
+Open your web browser.
+Go to http://localhost/assignment-management-system.
+
 
 ## Screenshots
 
