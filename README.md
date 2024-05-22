@@ -24,6 +24,11 @@ Student
 
 ## ⚙️ Setup
 
+Prerequisites
+* XAMPP or any other PHP and MySQL server.
+* Web browser.
+
+Installation
 To set up the project locally, follow these steps:
 
 Clone the repository:
