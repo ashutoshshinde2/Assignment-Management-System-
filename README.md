@@ -26,8 +26,26 @@ Open index.html in your browser:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ashutoshshinde2/Electronic-Component-E-Shop/blob/main/Output/output1.png)
-![App Screenshot](https://github.com/ashutoshshinde2/Electronic-Component-E-Shop/blob/main/Output/output2.png)
+### Teacher Dashboard
+
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/Home%20page.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/login%20for%20student%20and%20login%20page.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/TeacherDashboard.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/AddStudent.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/AllStudent.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/NewAssignment.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/View%20Submission.png)
+
+### Student Dashboard
+
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/Student%20Dashboard.png)
+![App Screenshot](https://github.com/ashutoshshinde2/Assignment-Management-System-/blob/main/Output/Upload%20Assignement.png)
+
+
+
+
+
+    
 
 
 ## 📜 License
