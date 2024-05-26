@@ -1,6 +1,6 @@
 
 # Assignment Management System Website
-Descreption
+
 This is an Assignment Management System developed using PHP, HTML, CSS, and MySQL. The system has two types of users: students and teachers. Teachers can manage students and assignments, while students can view and submit assignments.
 ## Features
 Teacher
