@@ -1,10 +1,10 @@
 
 # Assignment Management System Website
 
-This is an Assignment Management System developed using PHP, HTML, CSS, and MySQL. The system has two types of users: students and teachers. Teachers can manage students and assignments, while students can view and submit assignments.
+This Assignment Management System was developed using PHP, HTML, CSS, and MySQL. The system has two types of users: students and teachers. Teachers can manage students and assignments, while students can view and submit assignments.
 ## Features
 Teacher
-* Login: Secure login system for teachers.
+* Login: A secure login system for teachers is needed.
 * Add Students: Teachers can add new students to the system.
 * View Students: Teachers can view all students in the system.
 * Create Assignments: Teachers can create new assignments.
@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
 
 Clone the repository:
 
-    https://github.com/ashutoshshinde2/Assignment-Management-System-.git
+    git clone https://github.com/ashutoshshinde2/Assignment-Management-System-.git
 
 Navigate to the project directory:
 
